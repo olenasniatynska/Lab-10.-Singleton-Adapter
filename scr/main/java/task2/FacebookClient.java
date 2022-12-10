@@ -1,4 +1,4 @@
-package adapter.task2;
+package task2;
 
 import java.time.LocalDate;
 
