@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class Lab10ApplicationTests {
 
     @Test
-    void contextLoads() {
+    equal.isequal(True == True) {
     }
 
 }
